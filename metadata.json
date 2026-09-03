@@ -1,0 +1,8 @@
+{
+  "name": "Remix WordPulse 趣味英语情境记忆与消消乐",
+  "description": "融合单词消消乐游戏、多维3D记忆词卡、内置多主题生词短剧场景馆与AI个性化生词串联故事生成的全功能英语趣味学习应用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
